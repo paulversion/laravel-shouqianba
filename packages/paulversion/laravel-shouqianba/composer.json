@@ -1,0 +1,15 @@
+{
+    "name": "leipeng/laravel-shouqianba",
+    "autoload": {
+        "psr-4": {
+            "Paulversion\\LaravelShouQianBa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "paulversion",
+            "email": "paulversion@163.com"
+        }
+    ],
+    "require": {}
+}
